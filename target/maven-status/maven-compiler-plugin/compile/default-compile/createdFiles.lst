@@ -1,0 +1,12 @@
+edu\vt\alic\perks\PlayerData.class
+edu\vt\alic\perks\listeners\PlayerJoinListener.class
+edu\vt\alic\perks\listeners\ZombieDeathListener.class
+edu\vt\alic\perks\Perk.class
+edu\vt\alic\perks\PlayerData$1.class
+edu\vt\alic\perks\Perks.class
+edu\vt\alic\perks\Util.class
+edu\vt\alic\perks\listeners\InventoryClickListener.class
+edu\vt\alic\perks\mysql\MySql.class
+edu\vt\alic\perks\listeners\PlayerQuitListener.class
+edu\vt\alic\perks\commands\PerksCommand.class
+edu\vt\alic\perks\listeners\PlayerLevelUpListener.class

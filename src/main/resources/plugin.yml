@@ -1,0 +1,7 @@
+name: ${name}
+main: ${mainClass}
+version: ${version}
+author: ${author}
+depend: [Vault]
+commands:
+  perks:

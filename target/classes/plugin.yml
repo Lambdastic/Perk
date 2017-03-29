@@ -1,0 +1,7 @@
+name: Perks
+main: edu.vt.alic.perks.Perks
+version: 1.0
+author: Lambdastic
+depend: [Vault]
+commands:
+  perks:
